@@ -1,1 +1,1 @@
-displaying content list
+cript that changes the working directory to the user’s home directory.
