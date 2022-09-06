@@ -1,1 +1,1 @@
- a script that displays a confused smiley "(Ôo)
+A content of the /etc/passwd file.
